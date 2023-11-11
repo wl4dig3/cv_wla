@@ -31,13 +31,13 @@ h1 {
 }
 .container {
     max-width: 100%;
-    margin: 0 100px;
+    margin: 0 100px 50px;
 }
 .datos-personales {
     text-align: center;
 }
 .educacion {
-    margin: 25px 0;
+    margin: 65px 0;
 }
 .seccion-titulo {
     margin-bottom: 15px;
@@ -49,5 +49,7 @@ footer {
 
     & i {
         font-size: 30px;
+        color: azure;
     }
+    
 }
